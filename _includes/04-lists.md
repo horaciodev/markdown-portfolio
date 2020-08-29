@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Azure SDKs
+2. Net Core Apps
+3. Cheese Burgers :smile:
